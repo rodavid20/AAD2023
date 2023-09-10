@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+
+    <string-array name="app_list">
+        <item>Web</item>
+        <item>Maps</item>
+        <item>Phone</item>
+    </string-array>
+</resources>
